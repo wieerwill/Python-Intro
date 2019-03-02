@@ -1,5 +1,6 @@
 # Python-Intro
-Einfach gehaltene Einführung in die Phyton Syntax zum lernen oder nachschlagen.
+Einfach gehaltene Einführung in die Phyton Syntax zum lernen oder nachschlagen.<br>
+Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
 
 ## Inhaltsverzeichnis
  1. Zahlen, Strings und Mehr
@@ -12,6 +13,7 @@ Einfach gehaltene Einführung in die Phyton Syntax zum lernen oder nachschlagen.
  8. Importieren
 
 Unregelmäßige Updates
+Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte einen Request.
 
 ## Startpunkte für Python
  - die Python [Dokumentation](https://docs.python.org/3/)
