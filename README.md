@@ -12,7 +12,7 @@ Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
  7. Dateien
  8. Importieren
 
-Unregelmäßige Updates
+Unregelmäßige Updates!<br>
 Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte einen Request.
 
 ## Startpunkte für Python
