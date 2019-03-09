@@ -22,7 +22,8 @@ Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte e
 
 ## Startpunkte für Python
  - die Python [Dokumentation](https://docs.python.org/3/)
- - Programmierumgebung/Üben z.B. [Anaconda](http://anaconda.com)
+ - Python Üben/Markup mit [Anaconda](http://anaconda.com)
+ - Programmierumgebung (IDE) [pycharm](https://www.jetbrains.com/pycharm/) (für Studenten/Lehrer kostenlos)
  
  
 ## Wie geht man bei Fehlern vor?
