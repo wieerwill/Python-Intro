@@ -45,9 +45,14 @@ Unregelmäßige Updates!<br>
 Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte einen Request.
 
 ## Startpunkte für Python
- - die Python [Dokumentation](https://docs.python.org/3/)
- - Python Üben/Markup mit [Anaconda](http://anaconda.com)
- - Programmierumgebung (IDE) [pycharm](https://www.jetbrains.com/pycharm/) (für Studenten/Lehrer kostenlos)
+### die Python [Dokumentation](https://docs.python.org/3/)
+Hier ist alles ausführlich aufgeführt und beschrieben. Viele Informationen und Tipps
+
+### Python Üben/Markup mit [Anaconda](http://anaconda.com)
+Anaconda Jupyter Launcher ist sehr nützlich um Notebooks zu erstellen. Code und Markup können so zusammen in einem Dokument geschrieben werden
+
+### Programmierumgebung (IDE) [pycharm](https://www.jetbrains.com/pycharm/)
+PyCharm ist eine hervorragende IDE um eigene Python-Programme zu erstellen (für Studenten/Lehrer kostenlos)
 
 ## Wie geht man bei Fehlern vor?
   - Variablen überprüfen (alles richtig definiert?)
@@ -57,6 +62,9 @@ Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte e
 
 # Specials
 Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich auch dabei kleine Einführungen zu diversen Spezialisierteren Themen zu erstellen. Diese werden ebenfalls in diesem Repositorie festgehalten.
+
+## CSV Dateien erstellen/bearbeiten
+**coming soon**
 
 ## Webcrawling
 Im  Web Crawling (.html oder .ipynb) sind die Grundlagen zum Auslesen von Webseiten festgehalten.
