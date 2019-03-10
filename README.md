@@ -12,12 +12,19 @@ Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
  2. Listen
  3. Daten umwandeln
  4. Operatoren & Gatter
- 5. Schleifen (if, for, while)
+ 5. Schleifen 
+     - if
+     - for
+     - while
  6. Funktionen
- 7. Dateien (schreiben, lesen)
+ 7. Dateien 
+     - schreiben
+     - lesen
  8. Dictionaries
  9. Tupel
- 10. Module (eigenen & importieren)
+ 10. Module 
+     - eigene Erstellen
+     - bestehende importieren
  11. Generatoren
  11. Objektorientierung
 
@@ -33,7 +40,7 @@ Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte e
   - Variablen überprüfen (alles richtig definiert?)
   - Klammern nicht vergessen bzw richtige Klammern gesetzt {[()]}
   - Syntax (Einrückungen) richtig gesetzt?
-  - Stackoverflow.com
+  - [Stackoverflow](http://www.stackoverflow.com) oder (Suchmaschinen)[http://duckduckgo.de]; irgendjemand hatte deinen Fehler bestimmt schon ;)
 
 # Specials
 Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich auch dabei kleine Einführungen zu diversen Spezialisierteren Themen zu erstellen. Diese werden ebenfalls in diesem Repositorie festgehalten.
