@@ -7,10 +7,24 @@ Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
 ## Inhaltsverzeichnis
  1. Grundlagen
     - Grundrechenarten
-    - Datentypen (Zahlen, Strings,...)
-    - Mehr (Grundfunktionen)
- 2. Listen
- 3. Daten umwandeln
+    - Datentypen 
+       1. Zahlen
+       2. Strings
+       3. Boolean
+       4. Variable
+       5. Kommentare
+    - Grundfunktionen
+       1. print
+       2. input
+       3. len
+       4. join
+ 2. Datenstrukturen
+    - Listen
+    - Dictionaries
+    - Tupel
+    - Set
+    - PriorityQueue
+ 3. Daten(-strukturen) umwandeln
  4. Operatoren & Gatter
  5. Schleifen 
      - if
@@ -20,13 +34,12 @@ Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
  7. Dateien 
      - schreiben
      - lesen
- 8. Dictionaries
- 9. Tupel
- 10. Module 
+ 8. Module 
      - eigene Erstellen
      - bestehende importieren
- 11. Generatoren
- 11. Objektorientierung
+ 9. Generatoren
+ 10. Objektorientierung
+ 11. Exceptions
 
 Unregelmäßige Updates!<br>
 Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte einen Request.
