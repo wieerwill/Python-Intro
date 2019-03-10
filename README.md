@@ -5,16 +5,20 @@ Letztendlich soll ein kleines Cheatsheet entstehen, das als schnelles Nachschlag
 Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
 
 ## Inhaltsverzeichnis
- 1. Zahlen, Strings und Mehr
+ 1. Grundlagen
+    - Grundrechenarten
+    - Datentypen (Zahlen, Strings,...)
+    - Mehr (Grundfunktionen)
  2. Listen
- 3. Dateien umwandeln
- 4. Operatoren
- 5. Schleifen
+ 3. Daten umwandeln
+ 4. Operatoren & Gatter
+ 5. Schleifen (if, for, while)
  6. Funktionen
- 7. Dateien
+ 7. Dateien (schreiben, lesen)
  8. Dictionaries
  9. Tupel
- 10. Importieren
+ 10. Module (eigenen & importieren)
+ 11. Generatoren
  11. Objektorientierung
 
 Unregelmäßige Updates!<br>
@@ -24,10 +28,21 @@ Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte e
  - die Python [Dokumentation](https://docs.python.org/3/)
  - Python Üben/Markup mit [Anaconda](http://anaconda.com)
  - Programmierumgebung (IDE) [pycharm](https://www.jetbrains.com/pycharm/) (für Studenten/Lehrer kostenlos)
- 
- 
+
 ## Wie geht man bei Fehlern vor?
   - Variablen überprüfen (alles richtig definiert?)
   - Klammern nicht vergessen bzw richtige Klammern gesetzt {[()]}
   - Syntax (Einrückungen) richtig gesetzt?
   - Stackoverflow.com
+
+# Specials
+Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich auch dabei kleine Einführungen zu diversen Spezialisierteren Themen zu erstellen. Diese werden ebenfalls in diesem Repositorie festgehalten.
+
+## Webcrawling
+Im  Web Crawling (.html oder .ipynb) sind die Grundlagen zum Auslesen von Webseiten festgehalten.
+
+## Bildverarbeitung
+**coming soon**
+
+## Künstliche Intelligenz (KI/AI)
+**coming soon**
