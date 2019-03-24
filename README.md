@@ -63,6 +63,9 @@ PyCharm ist eine hervorragende IDE um eigene Python-Programme zu erstellen (für
 # Specials
 Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich auch dabei kleine Einführungen zu diversen Spezialisierteren Themen zu erstellen. Diese werden ebenfalls in diesem Repositorie festgehalten.
 
+## Body Mass Index berechnen
+Einfaches Python Programm, das Körpergewicht und Körpergröße abfrägt um daraus den BMI zu berechnen und auszugeben.
+
 ## CSV Dateien erstellen/bearbeiten
 **coming soon**
 
