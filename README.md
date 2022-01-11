@@ -69,6 +69,8 @@ Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich au
 ## Body Mass Index berechnen
 Einfaches Python Programm, das Körpergewicht und Körpergröße abfrägt um daraus den BMI zu berechnen und auszugeben: [BMI.py](uebung/bmi.py)
 
+## Sets
+Zähle wieviele unterschiedliche Namen eine Liste enthält und gebe dies als Zahl zurück: [Sets.py](uebung/sets.py)
 
 ## Webcrawling
 Im  [Web Crawling](Web%20Crawling.ipynb) (.html oder .ipynb) sind die Grundlagen zum Auslesen von Webseiten festgehalten.
