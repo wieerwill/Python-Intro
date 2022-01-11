@@ -1,8 +1,11 @@
 # Python-Intro
-Einfach gehaltene Einführung in die Phyton Syntax zum lernen oder nachschlagen.<br>
-Gerade im Aufbau ist noch nicht groß sortiert, sondern erstmal in einfach Reihenfolge zum lernen gebracht.<br>
-Letztendlich soll ein kleines Cheatsheet entstehen, das als schnelles Nachschlagwerk und zum lernen benutzt werden kann.<br>
-Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
+Eine einfach gehaltene Einführung in die Phyton Syntax zum lernen oder nachschlagen.
+
+Gerade im Aufbau ist noch nichts groß sortiert, sondern erstmal in eine Reihenfolge zum erlernen gebracht.
+
+Letztendlich soll ein kleines Cheatsheet entstehen, das als schnelles Nachschlagwerk und zum lernen benutzt werden kann.
+
+Wir nutzen JupyterNotebooks: Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
 
 ## Inhaltsverzeichnis
  1. Grundlagen
@@ -41,36 +44,35 @@ Nach dem Code-Block ist jeweils die Konsolen-Ausgabe sichtbar.
  10. Objektorientierung
  11. Exceptions
 
-Unregelmäßige Updates!<br>
-Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte einen Request.
+Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte ein Issue.
 
 ## Startpunkte für Python
-### die Python [Dokumentation](https://docs.python.org/3/)
-Hier ist alles ausführlich aufgeführt und beschrieben. Viele Informationen und Tipps
-
-### Python Üben/Markup mit [Anaconda](http://anaconda.com)
-Anaconda Jupyter Launcher ist sehr nützlich um Notebooks zu erstellen. Code und Markup können so zusammen in einem Dokument geschrieben werden
-
-### Programmierumgebung (IDE) [pycharm](https://www.jetbrains.com/pycharm/)
-PyCharm ist eine hervorragende IDE um eigene Python-Programme zu erstellen (für Studenten/Lehrer kostenlos)
+- die Python [Dokumentation](https://docs.python.org/3/)
+    - Hier ist alles ausführlich aufgeführt und beschrieben. Viele Informationen und Tipps
+- Python Üben/Markup mit [Anaconda](http://anaconda.com)
+    - Anaconda Jupyter Launcher ist sehr nützlich um Notebooks zu erstellen. Code und Markup können so zusammen in einem Dokument geschrieben werden
+- Programmierumgebung (IDE) [pycharm](https://www.jetbrains.com/pycharm/)
+    - PyCharm ist eine hervorragende IDE um eigene Python-Programme zu erstellen (für Studenten/Lehrer kostenlos)
 
 ## Wie geht man bei Fehlern vor?
-  - Variablen überprüfen (alles richtig definiert?)
-  - Klammern nicht vergessen bzw richtige Klammern gesetzt {[()]}
-  - Syntax (Einrückungen) richtig gesetzt?
-  - [Stackoverflow](http://www.stackoverflow.com) oder (Suchmaschinen)[http://duckduckgo.de]; irgendjemand hatte deinen Fehler bestimmt schon ;)
+- Variablen überprüfen (alles richtig definiert? Groß-/Kleinschreibung beachtet?)
+- Klammern nicht vergessen bzw. richtige Klammern(reihenfolge) gesetzt {[()]}
+- Syntax: Einrückungen richtig gesetzt? Zeilenumbrüche nicht vergessen?
+- [Stackoverflow](http://www.stackoverflow.com) oder (Suchmaschinen)[http://duckduckgo.de]; irgendjemand hatte deinen Fehler bestimmt schon mal ;)
+- Fehler sind normal und kommen vor, mach dir nichts draus. Mit genügend Übung werden Fehler weniger und weniger
 
 # Specials
-Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich auch dabei kleine Einführungen zu diversen Spezialisierteren Themen zu erstellen. Diese werden ebenfalls in diesem Repositorie festgehalten.
+Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich auch dabei kleine Einführungen zu diversen Spezialisierteren Themen zu erstellen. Diese werden ebenfalls in diesem Repository festgehalten.
 
 ## Body Mass Index berechnen
 Einfaches Python Programm, das Körpergewicht und Körpergröße abfrägt um daraus den BMI zu berechnen und auszugeben.
 
+## Webcrawling
+Im  Web Crawling (.html oder .ipynb) sind die Grundlagen zum Auslesen von Webseiten festgehalten.
+
 ## CSV Dateien erstellen/bearbeiten
 **coming soon**
 
-## Webcrawling
-Im  Web Crawling (.html oder .ipynb) sind die Grundlagen zum Auslesen von Webseiten festgehalten.
 
 ## Bildverarbeitung
 **coming soon**
