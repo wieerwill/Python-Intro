@@ -63,14 +63,18 @@ Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte e
 - [Stackoverflow](http://www.stackoverflow.com) oder (Suchmaschinen)[http://duckduckgo.de]; irgendjemand hatte deinen Fehler bestimmt schon mal ;)
 - Fehler sind normal und kommen vor, mach dir nichts draus. Mit genügend Übung werden Fehler weniger und weniger
 
-# Specials
+# Specials und Übungen
 Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich auch dabei kleine Einführungen zu diversen Spezialisierteren Themen zu erstellen. Diese werden ebenfalls in diesem Repository festgehalten.
 
 ## Body Mass Index berechnen
-Einfaches Python Programm, das Körpergewicht und Körpergröße abfrägt um daraus den BMI zu berechnen und auszugeben: [BMI.py](bmi.py)
+Einfaches Python Programm, das Körpergewicht und Körpergröße abfrägt um daraus den BMI zu berechnen und auszugeben: [BMI.py](uebung/bmi.py)
+
 
 ## Webcrawling
 Im  [Web Crawling](Web%20Crawling.ipynb) (.html oder .ipynb) sind die Grundlagen zum Auslesen von Webseiten festgehalten.
+
+## FLASK
+**coming soon**
 
 ## CSV Dateien erstellen/bearbeiten
 **coming soon**
@@ -81,3 +85,4 @@ Im  [Web Crawling](Web%20Crawling.ipynb) (.html oder .ipynb) sind die Grundlagen
 
 ## Künstliche Intelligenz (KI/AI)
 **coming soon**
+
