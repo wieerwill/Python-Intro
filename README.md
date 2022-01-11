@@ -44,6 +44,8 @@ Wir nutzen JupyterNotebooks: Nach dem Code-Block ist jeweils die Konsolen-Ausgab
  10. Objektorientierung
  11. Exceptions
 
+Fange direkt an: [Start](Python-Syntax.ipynb)
+
 Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte ein Issue.
 
 ## Startpunkte für Python
@@ -65,10 +67,10 @@ Du hast Fragen oder Verbesserungsvorschläge? Dann schreib mich an oder starte e
 Während ich an dem Cheatsheet arbeite und kleine Programme schreibe, bin ich auch dabei kleine Einführungen zu diversen Spezialisierteren Themen zu erstellen. Diese werden ebenfalls in diesem Repository festgehalten.
 
 ## Body Mass Index berechnen
-Einfaches Python Programm, das Körpergewicht und Körpergröße abfrägt um daraus den BMI zu berechnen und auszugeben.
+Einfaches Python Programm, das Körpergewicht und Körpergröße abfrägt um daraus den BMI zu berechnen und auszugeben: [BMI.py](bmi.py)
 
 ## Webcrawling
-Im  Web Crawling (.html oder .ipynb) sind die Grundlagen zum Auslesen von Webseiten festgehalten.
+Im  [Web Crawling](Web%20Crawling.ipynb) (.html oder .ipynb) sind die Grundlagen zum Auslesen von Webseiten festgehalten.
 
 ## CSV Dateien erstellen/bearbeiten
 **coming soon**
